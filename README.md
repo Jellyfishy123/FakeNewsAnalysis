@@ -1,5 +1,5 @@
 # **Contributors:**
-<br> Dylan
+Dylan
 <br> Michael
 <br> Jun Yu 
 <br> Tien Dat (John) 
