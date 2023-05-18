@@ -1,7 +1,7 @@
 Contributors:
-Dylan
-Michael
-Jun Yu
+Dylan <br>
+Michael<br>
+Jun Yu <br>
 Tien Dat (John)
 
 About:
