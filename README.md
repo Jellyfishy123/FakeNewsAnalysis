@@ -1,8 +1,8 @@
 **Contributors:**
-<br> Dylan <br>
-<br> Michael<br>
-<br> Jun Yu <br>
-<br> Tien Dat (John) <br>
+<br> Dylan
+<br> Michael
+<br> Jun Yu 
+<br> Tien Dat (John) 
 
 **About:**
 Contained within are the source codes for our SC1015 (Introduction to Data Science and Artificial Intelligence) Mini-Project. Our mini-project utilizes the Fake News dataset based on FakeNewsNet by Aleksei Golovin in order to develop machine learning algorithms that can accurately discern fake news from real news and analyze the factors that differentiate them.
