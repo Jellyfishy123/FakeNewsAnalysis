@@ -7,9 +7,11 @@ Dylan
 ### **About:**
 Contained within are the source codes for our SC1015 (Introduction to Data Science and Artificial Intelligence) Mini-Project. Our mini-project utilizes the Fake News dataset based on FakeNewsNet by Aleksei Golovin in order to develop machine learning algorithms that can accurately discern fake news from real news and analyze the factors that differentiate them.
 
-### **Models Used:** Naive-Bayes Model and Random Forest Classifier
+### **Models Used:** 
+Naive-Bayes Model and Random Forest Classifier
 
-### **Conclusion:** From the table, the random forest classifier is better than the naive-bayes model in terms of K-fold accuracy and accuracy. Hence, it is a better model compared to naive-bayes. However, the accuracy is not 1 so we can explore different models to achieve even more accurate results.
+### **Conclusion:** 
+From the table, the random forest classifier is better than the naive-bayes model in terms of K-fold accuracy and accuracy. Hence, it is a better model compared to naive-bayes. However, the accuracy is not 1 so we can explore different models to achieve even more accurate results.
 
 ### **What did we learn from this project?**
 In conclusion, we found out that it is possible to predict and discern fake news from real news using ML models. Furthermore, we can do to a large extent as seen from the high accuracy and F1 score for both models. While the number may not be perfectly 1, they are still very acceptable and accurate. 
