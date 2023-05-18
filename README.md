@@ -1,4 +1,4 @@
-# **Contributors:**
+## **Contributors:**
 Dylan
 <br> Michael
 <br> Jun Yu 
